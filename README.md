@@ -17,7 +17,7 @@ The function <img width="38" alt="image" src="https://user-images.githubusercont
 opens the file and reads it line by line, for each line we must have a precise url
 For each URL:
 the function checks if it is
-#### 1) a Domain Name:
+### 1) a Domain Name:
 The function adds “https” 
-#### 2) a url that has a valid format
+### 2) a url that has a valid format
 The function leaves the url as it is
