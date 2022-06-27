@@ -42,8 +42,7 @@ The function <img width="30" alt="image" src="https://user-images.githubusercont
 
 The function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175923444-2a594888-37c0-4f1c-81dd-18e14a620804.png">
 returns true if the function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923464-1e0d83b1-8728-497f-936b-0034bcb18019.png">
-returns for example "X-POWERED-BY =PHP" or if the  function  returns true
-returns true if the function returns for example "X-POWERED-BY =PHP" or if the  function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923569-096093fc-6fb2-47cf-a94d-78b82746478d.png">
+returns for example "X-POWERED-BY =PHP" or if the function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923569-096093fc-6fb2-47cf-a94d-78b82746478d.png">
 returns true
 
 The function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175923712-728cc7de-e47d-4281-a5e3-442358a62d9c.png">
