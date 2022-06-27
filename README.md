@@ -30,6 +30,6 @@ gives us the IP address of the url
 
 The function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175922268-3ecadb76-d87d-4849-8796-c5798e3bc3b6.png">
 reports the value of some specific header (if they exist) that we will use later:
-# • The name of the “server”
-# • The value of "X-POWERED-BY", this value tells us the language used in the web application
-# • The value of “X-ASPNET-VERSION”, this value specifies the version of the asp.net language, we deduce the language
+##### • The name of the “server”
+##### • The value of "X-POWERED-BY", this value tells us the language used in the web application
+##### • The value of “X-ASPNET-VERSION”, this value specifies the version of the asp.net language, we deduce the language
