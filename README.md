@@ -16,8 +16,14 @@ In the case where we put a file in input:
 The function <img width="38" alt="image" src="https://user-images.githubusercontent.com/107410271/175920866-d1f325d3-9b5e-427c-88de-773b05d1db54.png">
 opens the file and reads it line by line, for each line we must have a precise url
 For each URL:
-the function checks if it is
+the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175921702-1b453a29-e2fe-4ac3-8fdd-8c3d18ffd4e1.png">
+checks if it is
 ### 1) a Domain Name:
 The function adds “https” 
 ### 2) a url that has a valid format
 The function leaves the url as it is
+
+The function <img width="39" alt="image" src="https://user-images.githubusercontent.com/107410271/175921895-8f9d05dc-b1bc-4b60-bde1-e18b1038ef89.png">
+gives us the Domain Name of the url
+According to the Domain Name, the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175921940-17825a79-6ffc-4470-9f5b-6c178e367775.png">
+gives us the IP address of the url
