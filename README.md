@@ -66,26 +66,26 @@ Checks if the DotNetNuke CMS is used by checking if the [id] tag contains "dnn_"
 
 Ps: “wp-…”: wp-content/wp-includes/wp-admin
 
-• If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926406-b69b9f2b-2363-4ef2-993a-4f9817256111.png">
+### • If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926406-b69b9f2b-2363-4ef2-993a-4f9817256111.png">
 returns “DotNetNuke” then the function<img width="50" alt="image" src="https://user-images.githubusercontent.com/107410271/175926566-8781e017-5830-4e18-9a18-666c6e5a6f66.png">
  Returns true
-• If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926438-b4542ace-1356-4620-9b6e-3cd85f79b233.png">
+### • If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926438-b4542ace-1356-4620-9b6e-3cd85f79b233.png">
 returns “wp-…” then the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175926609-c9306289-3679-481d-9866-5b262e4b0b64.png">
 Returns true
-• If the function<img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926447-3b6cfbe5-f417-46b6-99bc-309221ed5209.png">
+### • If the function<img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926447-3b6cfbe5-f417-46b6-99bc-309221ed5209.png">
  returns “drupal” then the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175926634-79c83bd7-66f4-4f07-8210-dd12007f4518.png">
 Returns true
-• If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926458-895766bd-408c-45dd-8299-be0683de8df4.png">
+### • If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926458-895766bd-408c-45dd-8299-be0683de8df4.png">
 returns "joomla" then the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175926655-7af606f7-743c-4b1f-8112-a635ca1ae1b4.png">
 Returns true
-• If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926467-f18af6a7-a8b2-4aea-8cfd-66d711896801.png">
+### • If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926467-f18af6a7-a8b2-4aea-8cfd-66d711896801.png">
 returns “magento” then the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175926681-8d735efe-e200-4d24-8572-0ba9e86b3ecc.png">
 Returns true
 
 
-• If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926470-4eb123bc-30c7-47e1-a8f6-5d98a09a1f91.png">
+### • If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926470-4eb123bc-30c7-47e1-a8f6-5d98a09a1f91.png">
 returns “SharePoint” then the function<img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175926701-03435851-db91-498d-8bdf-ee649e2ce50c.png">
  Returns true
-• If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926478-eb34e82d-2701-4567-b323-775a9fbae4f8.png">
+### • If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926478-eb34e82d-2701-4567-b323-775a9fbae4f8.png">
 returns "SPIP" then the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175926725-e1eea5bb-c53b-40e6-8161-8f893dad9bd2.png">
 returns true
