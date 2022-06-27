@@ -89,3 +89,8 @@ returns “SharePoint” then the function<img width="34" alt="image" src="https
 ### • If the function <img width="46" alt="image" src="https://user-images.githubusercontent.com/107410271/175926478-eb34e82d-2701-4567-b323-775a9fbae4f8.png">
 returns "SPIP" then the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175926725-e1eea5bb-c53b-40e6-8161-8f893dad9bd2.png">
 returns true
+
+
+# url parsing result:
+
+![Sans titre](https://user-images.githubusercontent.com/107410271/175927299-bb81eea6-f6d5-4c03-80e4-53cd0b90294c.png)
