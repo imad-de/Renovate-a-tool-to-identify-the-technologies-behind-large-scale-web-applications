@@ -47,5 +47,4 @@ returns true
 
 The function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175923712-728cc7de-e47d-4281-a5e3-442358a62d9c.png">
 returns true if the function<img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923735-05872cdd-a9cd-49fd-9afd-917b6b314720.png">
- returns either for example "X-POWERED-BY =ASP" or the value of "X-ASPNET-VERSION" is not null or if the function returns true
-returns true if the function returns for example "X-POWERED-BY =PHP" or if the  function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923569-096093fc-6fb2-47cf-a94d-78b82746478d.png">
+ returns either for example "X-POWERED-BY =ASP" or the value of "X-ASPNET-VERSION" is not null or if the  function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923569-096093fc-6fb2-47cf-a94d-78b82746478d.png">
