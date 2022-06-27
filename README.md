@@ -33,3 +33,20 @@ reports the value of some specific header (if they exist) that we will use later
 ##### • The name of the “server”
 ##### • The value of "X-POWERED-BY", this value tells us the language used in the web application
 ##### • The value of “X-ASPNET-VERSION”, this value specifies the version of the asp.net language, we deduce the language
+
+The function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175922780-906bedbe-491f-4ae0-a5f2-c0f18ffa0558.png">
+first searches all the urls of the source code, detects that the urls which contain the Domain Name of the url, detects if these selected urls contain "PHP" in the directory of the 'url.
+
+The function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923202-a55c628e-d72d-4044-94b4-2a3e75d204c1.png">
+ first searches all the urls of the source code, detects that the urls which contain the Domain Name of the url, detects if these selected urls contain "ASPX" in the directory of the 'url.
+
+The function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175923444-2a594888-37c0-4f1c-81dd-18e14a620804.png">
+returns true if the function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923464-1e0d83b1-8728-497f-936b-0034bcb18019.png">
+returns for example "X-POWERED-BY =PHP" or if the  function  returns true
+returns true if the function returns for example "X-POWERED-BY =PHP" or if the  function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923569-096093fc-6fb2-47cf-a94d-78b82746478d.png">
+returns true
+
+The function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175923712-728cc7de-e47d-4281-a5e3-442358a62d9c.png">
+returns true if the function<img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923735-05872cdd-a9cd-49fd-9afd-917b6b314720.png">
+ returns either for example "X-POWERED-BY =ASP" or the value of "X-ASPNET-VERSION" is not null or if the function returns true
+returns true if the function returns for example "X-POWERED-BY =PHP" or if the  function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175923569-096093fc-6fb2-47cf-a94d-78b82746478d.png">
