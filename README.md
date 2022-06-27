@@ -91,6 +91,6 @@ returns "SPIP" then the function <img width="34" alt="image" src="https://user-i
 returns true
 
 
-# url parsing result:
+# result of  parsing random urls:
 
 ![Sans titre](https://user-images.githubusercontent.com/107410271/175927299-bb81eea6-f6d5-4c03-80e4-53cd0b90294c.png)
