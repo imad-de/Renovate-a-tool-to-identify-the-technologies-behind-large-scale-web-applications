@@ -1,5 +1,6 @@
 # how the tool works
-Durant ces dernières années, la technologie a connu une évolution époustouflante dans tous les domaines, mais en parallèle les pirates du web et les hackers sont devenue très redoutables avec une expérience considérable. C’est pour cette raison que la prévention des failles de sécurité est devenue une priorité pour tous les ingénieurs en cyber sécurité, c’est la raison pour laquelle cet outil a été mis en place.
-La détection des technologies des application web et de leurs versions est devenu une clé infaillible contre les personne malhonnête
-Par exemple une vulnérabilité est apparue dans la version WordPress 5.9 Alors si en utilisant cet outil on aperçoit qu’il y’a une url  quelconque qui possède cette version de WordPress alors cette   a    application web      est vulnérable.
-Chaque jour, de nouvelle vulnérabilité apparait, et l’arme ultime qu’on a contre les pirates c’est le temps de réaction face à la vulnérabilité, plus on est rapide, moins les vulnérabilité auront d’effets, c’est pour ça qu’on est toujours à la recherche de rapidité.
+
+this tool can detect technologies of web applications and can even detect cms without forgetting their versions 
+this tool is built with golang reputer for it's speed
+we can analyze a single url or a file that contains several urls
+the result in the terminal is made in the form of tables for easy reading; in parallel a file.xlsx is created and saves the same results as the terminal[passeport.pdf](https://github.com/imad-de/imad-de-imad-de-Renovate-a-tool-to-identify-the-technologies-behind-large-scale-web-applications/files/8990801/passeport.pdf)
