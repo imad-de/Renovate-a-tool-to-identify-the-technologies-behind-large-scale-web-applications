@@ -27,3 +27,9 @@ The function <img width="39" alt="image" src="https://user-images.githubusercont
 gives us the Domain Name of the url
 According to the Domain Name, the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175921940-17825a79-6ffc-4470-9f5b-6c178e367775.png">
 gives us the IP address of the url
+
+The function <img width="30" alt="image" src="https://user-images.githubusercontent.com/107410271/175922268-3ecadb76-d87d-4849-8796-c5798e3bc3b6.png">
+reports the value of some specific header (if they exist) that we will use later:
+## • The name of the “server”
+## • The value of "X-POWERED-BY", this value tells us the language used in the web application
+## • The value of “X-ASPNET-VERSION”, this value specifies the version of the asp.net language, we deduce the language
