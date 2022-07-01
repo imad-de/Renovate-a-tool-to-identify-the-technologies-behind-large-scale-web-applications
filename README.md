@@ -1,6 +1,9 @@
 # Getting Started
 
+Install httpx:
+```golang
 
+```
 # how the tool works:
 
 this tool can detect technologies of web applications and can even detect cms without forgetting their versions 
