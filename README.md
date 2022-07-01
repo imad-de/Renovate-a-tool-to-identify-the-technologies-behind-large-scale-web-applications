@@ -1,6 +1,6 @@
 # Getting Started
 
-'''Golang
+'''python
 $ go get github.com/gogama/httpx
 '''
 # how the tool works:
