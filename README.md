@@ -1,6 +1,8 @@
 # Getting Started
 
-
+'''Golang
+$ go get github.com/gogama/httpx
+'''
 # how the tool works:
 
 this tool can detect technologies of web applications and can even detect cms without forgetting their versions 
