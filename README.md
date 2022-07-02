@@ -13,7 +13,8 @@ the result in the terminal is made in the form of tables for easy reading; in pa
 
 to understand the relationships between the functions, you will find a photo of tree diagram : 
 
-<img width="794" alt="Capture d’écran 2022-06-27 à 11 17 01" src="https://user-images.githubusercontent.com/107410271/175919219-e629ecbb-42fd-4b39-9625-458dcb0370fc.png">
+<img width="766" alt="Capture d’écran 2022-07-02 à 12 37 17" src="https://user-images.githubusercontent.com/107410271/176999200-0df24a44-1098-4f56-ac1b-4f9183a878e4.png">
+
 
 ## function correlation:
 
