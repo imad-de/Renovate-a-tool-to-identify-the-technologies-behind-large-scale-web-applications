@@ -25,8 +25,10 @@ For each URL:
 the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175921702-1b453a29-e2fe-4ac3-8fdd-8c3d18ffd4e1.png">
 checks if it is
 - 1) a Domain Name:
+
 The function adds “https” 
 - 2) a url that has a valid format
+
 The function leaves the url as it is
 
 The function <img width="39" alt="image" src="https://user-images.githubusercontent.com/107410271/175921895-8f9d05dc-b1bc-4b60-bde1-e18b1038ef89.png">
