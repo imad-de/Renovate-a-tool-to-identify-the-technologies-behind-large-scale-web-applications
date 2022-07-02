@@ -24,10 +24,10 @@ opens the file and reads it line by line, for each line we must have a precise u
 For each URL:
 the function <img width="34" alt="image" src="https://user-images.githubusercontent.com/107410271/175921702-1b453a29-e2fe-4ac3-8fdd-8c3d18ffd4e1.png">
 checks if it is
-- 1) a Domain Name:
+- 1) Domain Name:
 
 The function adds “https” 
-- 2) a url that has a valid format
+- 2) url that has a valid format
 
 The function leaves the url as it is
 
